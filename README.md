@@ -10,6 +10,7 @@ Prepare for an action-packed adventure in "Space Attack" a thrilling short game 
 
 🌟 Defend the Galaxy: As the last line of defense, it's your duty to protect the galaxy from the clutches of the enemy. Fight back with courage and determination to ensure the safety of the cosmos.
 
+Are you up for the challenge? Get ready to embark on a heart-pounding journey in "Space Attack" Can you navigate the perils of space, fend off the enemy onslaught, and emerge as the hero the galaxy needs? Strap in, pilot – the fate of the universe rests in your hands!
 ## Demo
 ![](https://github.com/Alishahidi1997/Space-Attack/blob/main/Assets/SpaceAttackDemo.gif)
 
