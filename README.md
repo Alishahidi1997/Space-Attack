@@ -1,7 +1,7 @@
 # Space Attack
-# Discription
+## Discription
 Prepare for an action-packed adventure in "Space Attack" a thrilling short game that puts you in the pilot's seat of a powerful spaceship. Your mission is simple: navigate through treacherous space filled with obstacles, fend off relentless enemy attacks, and emerge as the ultimate Galactic Guardian.
-# Features 
+### Features 
 🚀 Take Control: Step into the cockpit of a high-tech spaceship and experience the thrill of interstellar flight. Use your skills to maneuver through challenging obstacles as you become the master of your own destiny.
 
 🌌 Dodge and Evade: Test your reflexes and precision as you navigate a dangerous cosmic environment. Avoid obstacles and hazards that stand in your way, all while hurtling through the vast expanse of space.
@@ -10,9 +10,9 @@ Prepare for an action-packed adventure in "Space Attack" a thrilling short game 
 
 🌟 Defend the Galaxy: As the last line of defense, it's your duty to protect the galaxy from the clutches of the enemy. Fight back with courage and determination to ensure the safety of the cosmos.
 
-# Demo
+## Demo
 ![](https://github.com/Alishahidi1997/Space-Attack/blob/main/Assets/SpaceAttackDemo.gif)
 
-# Installation
+## Installation
 Download the code and use Unity Hub to run it. 
 
